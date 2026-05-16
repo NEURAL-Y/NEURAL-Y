@@ -1,27 +1,36 @@
-## Hi there 👋
-<!-- ========================= HERO ========================= -->
-
-<h1 align="center">⚡ Ayush Sharma ⚡</h1>
+<!-- ===================== SPACE HERO ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=850&lines=Curious+Learner+%7C+AI%2FML+Researcher;OS+Developer+%7C+System+Builder;DSA+Problem+Solver+%7C+Thinker;Space+Enthusiast+%7C+Exploring+the+Unknown;Python+%7C+C%2B%2B+Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ayush%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Curious-Learner-00F7FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%2FML-Researcher-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OS-Developer-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Space-Enthusiast-1E90FF?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00F7FF&center=true&vCenter=true&width=900&lines=🌌+Curious+Learner+%7C+AI%2FML+Researcher;🧠+NeurIPS+Explorer+%7C+Deep+Learning+Builder;🖥️+OS+Developer+%7C+Systems+Thinker;🧩+DSA+Problem+Solver+%7C+Logic+Architect;🚀+Space+Enthusiast+%7C+Exploring+the+Unknown" />
 </p>
 
 ---
 
-<!-- ========================= ABOUT ========================= -->
+<!-- ===================== STATS ===================== -->
 
-## 🧠 About Me
+## 📊 GitHub Universe
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+<!-- ===================== SPACE ABOUT ===================== -->
+
+## 🌌 About Me (Cosmic Profile)
 
 ```bash
-> identity: Curious Learner + AI/ML Researcher
-> focus: Intelligence • Systems • Exploration
-> mindset: learn → build → explore → improve → deploy
-> philosophy: curiosity drives everything
+> identity: AI/ML Researcher + Systems Engineer
+> mindset: curiosity → exploration → creation
+> mission: build intelligent scalable systems
+> belief: universe is computable, we just need better models
