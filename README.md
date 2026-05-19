@@ -11,7 +11,10 @@
 ---
 <!-- ===================== CONNECT ===================== -->
 🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/ayush-sharma-b08169355/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://neurips.cc/"> <img src="https://img.shields.io/badge/NeurIPS-Research%20Conference-FF6B6B?style=for-the-badge&logo=ai&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/ayush-sharma-b08169355/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://neurips.cc/"> <img src="https://img.shields.io/badge/NeurIPS-Research%20Conference-FF6B6B?style=for-the-badge&logo=ai&logoColor=white"/> </a>
+ <a href="https://orcid.org/0009-0003-7950-5924" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a> </p>
 
 <!-- ===================== NEURAL NETWORK ===================== -->
 🧠 Neural Network Engine
