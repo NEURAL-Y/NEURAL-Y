@@ -22,8 +22,41 @@
 ⚡ Intelligence emerges from connected systems
 
 <!-- ===================== FOOTER ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f2d,100:000000&height=140&section=footer"/> </p> <p align="center"> 🧠 Built in neural space • ⚡ Powered by curiosity • 🚀 Driven by systems thinking </p> ```
+---
 
-<!-- ===================== ABOUT ===================== -->
+## Languages & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+</p>
+
+```bash
+Languages I Work With
+├── Python       → AI/ML, Automation, Research
+├── C++          → Systems Programming, Performance Engineering,game developer
+├── JavaScript   → Interactive Web Applications
+├── HTML         → Web Structure & Content
+└── CSS          → UI Design & Styling
+```
+
+### 🚀 Current Focus
+
+* 🧠 Deep Learning & Neural Networks
+* ⚡ AI Systems Architecture
+* 🖥️ Operating Systems Development
+* 🔬 Research Paper Implementation
+* 🌐 Full-Stack Web Technologies
+* 🧩 Data Structures & Algorithms
+
+```
+```
+
+
+
+
+
+
+
 
 ## 🌌 About Me
 
@@ -32,3 +65,5 @@
 > mindset: curiosity → abstraction → intelligence → systems
 > mission: build scalable intelligent systems
 > belief: intelligence is structured computation
+```
+
