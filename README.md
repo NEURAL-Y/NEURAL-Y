@@ -48,16 +48,6 @@ Languages I Work With
 * 🌐 Full-Stack Web Technologies
 * 🧩 Data Structures & Algorithms
 
-```
-```
-
-
-
-
-
-
-
-
 ## 🌌 About Me
 
 ```bash
