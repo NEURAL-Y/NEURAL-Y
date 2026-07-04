@@ -1,59 +1,175 @@
-<!-- ===================== NEURAL SPACE HEADER ===================== -->
+<!-- =============================== -->
+<!--            HEADER               -->
+<!-- =============================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f2d&height=220&section=header&text=AYUSH%20SHARMA&fontSize=45&fontColor=00F7FF&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:0f0f2d&text=AYUSH%20SHARMA&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00F7FF&center=true&vCenter=true&width=900&lines=🧠+Curious+Learner+%7C+AI%2FML+Researcher;⚡+NeurIPS+Explorer+%7C+Deep+Learning+Builder;🖥️+OS+Developer+%7C+System+Architect;🧩+DSA+Problem+Solver+%7C+Logic+Thinker;🚀+Space+Enthusiast+%7C+Universe+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Researcher;Deep+Learning+Engineer;Operating+Systems+Developer;Graphics+Programmer;Computer+Vision+Researcher;Open+Source+Developer;Always+Learning+New+Things"/>
 </p>
 
 ---
-<!-- ===================== CONNECT ===================== -->
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/ayush-sharma-b08169355/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://neurips.cc/"> <img src="https://img.shields.io/badge/NeurIPS-Research%20Conference-FF6B6B?style=for-the-badge&logo=ai&logoColor=white"/> </a>
- <a href="https://orcid.org/0009-0003-7950-5924" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a> </p>
 
-<!-- ===================== NEURAL NETWORK ===================== -->
-🧠 Neural Network Engine
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="700"/>
-⚡ Intelligence emerges from connected systems
+# 👋 Hello World!
 
-<!-- ===================== FOOTER ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f2d,100:000000&height=140&section=footer"/> </p> <p align="center"> 🧠 Built in neural space • ⚡ Powered by curiosity • 🚀 Driven by systems thinking </p> ```
+```cpp
+class AyushSharma {
+public:
+
+    string role = "AI/ML Researcher";
+    string passion = "Building Intelligent Systems";
+
+    vector<string> interests = {
+        "Deep Learning",
+        "Computer Vision",
+        "Operating Systems",
+        "Graphics Programming",
+        "System Design",
+        "Research"
+    };
+
+    void mission(){
+        cout<<"Build technology that learns, scales and inspires.";
+    }
+};
+```
+
 ---
 
-## Languages & Technologies
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+
+<a href="https://www.linkedin.com/in/ayush-sharma-b08169355">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://orcid.org/0009-0003-7950-5924">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<a href="https://neurips.cc/">
+<img src="https://img.shields.io/badge/NeurIPS-Research-red?style=for-the-badge"/>
+</a>
+
 </p>
 
-```bash
-Languages I Work With
-├── Python       → AI/ML, Automation, Research
-├── C++          → Systems Programming, Performance Engineering,game developer
-├── JavaScript   → Interactive Web Applications
-├── HTML         → Web Structure & Content
-└── CSS          → UI Design & Styling
-```
+---
 
-### 🚀 Current Focus
+# ⚙️ Tech Stack
 
-* 🧠 Deep Learning & Neural Networks
-* ⚡ AI Systems Architecture
-* 🖥️ Operating Systems Development
-* 🔬 Research Paper Implementation
-* 🌐 Full-Stack Web Technologies
-* 🧩 Data Structures & Algorithms
+<p align="center">
 
-## 🌌 About Me
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,pytorch,tensorflow,postgres,mongodb" />
 
-```bash
-> identity: AI/ML Researcher + Systems Engineer
-> mindset: curiosity → abstraction → intelligence → systems
-> mission: build scalable intelligent systems
-> belief: intelligence is structured computation
-```
+<br><br>
 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,numpy,matplotlib,plotly,networkx,opengl,vulkan" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LibTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+</p>
+
+---
+
+# 🚀 Currently Exploring
+
+🧠 Deep Learning
+
+⚡ Large Language Models
+
+🔬 AI Research Papers
+
+🖥️ Operating Systems
+
+🎮 OpenGL & Vulkan
+
+📷 Computer Vision
+
+🌐 Full Stack Development
+
+🧩 Data Structures & Algorithms
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🧠 Philosophy
+
+> *"Intelligence emerges from connected systems."*
+
+> *"Research transforms curiosity into innovation."*
+
+> *"Every optimization begins with understanding."*
+
+---
+
+# 🌌 Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Large Language Models
+- Operating Systems
+- Graphics Programming
+- High Performance Computing
+- Systems Architecture
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f2d,100:000000"/>
+
+</p>
