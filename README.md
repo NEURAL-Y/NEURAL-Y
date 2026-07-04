@@ -128,6 +128,10 @@ public:
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
+</p><br>
+<p align="center">
+<img src="https://img.shields.io/github/followers/NEURAL-Y?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/NEURAL-Y?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
