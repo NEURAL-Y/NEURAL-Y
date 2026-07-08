@@ -66,14 +66,19 @@ public:
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,pytorch,tensorflow,postgres,mongodb" />
 
-<br><br>
+<br>
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,numpy,matplotlib,plotly,networkx,opengl,vulkan" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/LibTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-
+<br>
+<img src="https://img.shields.io/badge/-A41E22?style=for-the-badge&logo=vulkan&logoColor=white" height="64" width="64" alt="Vulkan">
+<img src="https://img.shields.io/badge/-5586A4?style=for-the-badge&logo=opengl&logoColor=white" height="64" width="64" alt="OpenGL">
+<img src="https://img.shields.io/badge/-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="64" width="64" alt="OpenCV">
+<img src="https://img.shields.io/badge/-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" height="64" width="64" alt="SciPy">
+<img src="https://img.shields.io/badge/-005CED?style=for-the-badge&logo=onnx&logoColor=white" height="64" width="64" alt="ONNX">
 </p>
 
 ---
