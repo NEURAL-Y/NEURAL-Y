@@ -49,7 +49,9 @@ public:
 <a href="https://orcid.org/0009-0003-7950-5924">
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
-
+<a href="https://x.com/Ayushsharm2uuz" target="_blank">
+  <img src="https://img.shields.io/badge/X-@Ayushsharm2uuz-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X Profile">
+</a>
 <a href="https://neurips.cc/">
 <img src="https://img.shields.io/badge/NeurIPS-Research-red?style=for-the-badge"/>
 </a>
