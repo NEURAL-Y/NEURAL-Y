@@ -71,6 +71,13 @@ public:
 <img src="https://skillicons.dev/icons?i=opencv&perline=5" />
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy">
 <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white">
+<img src="https://skillicons.dev/icons?i=nodejs,threejs,express,fastapi">
+<img
+    src="https://cdn.simpleicons.org/socketdotio/FFFFFF"
+    alt="WebSockets / Socket.IO"
+    width="48"
+    height="48"
+  />
 </p>
 
 ---
