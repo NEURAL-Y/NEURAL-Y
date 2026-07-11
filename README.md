@@ -107,7 +107,7 @@ public:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NEURAL-Y&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=NEURAL-Y&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NEURAL-Y&theme=tokyonight&hide_border=true"/>
 
@@ -115,7 +115,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEURAL-Y&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEURAL-Y&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
 </p>
 
