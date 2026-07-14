@@ -78,6 +78,7 @@ public:
     width="48"
     height="48"/>
 <img src="https://img.shields.io/badge/Milvus-Vector%20DB-00A1EA?style=flat-square" />
+<img src="https://img.shields.io/badge/Turtle-Graphics-00A1EA?style=flat-square" />
 <img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=flat-square" />
 </p>
 
