@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Researcher;Deep+Learning+Engineer;Operating+Systems+Developer;Graphics+Programmer;Computer+Vision+Researcher;Open+Source+Developer;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Researcher;Deep+Learning+Engineer;Operating+Systems+Developer;Graphics+Programmer;Computer+Vision+Researcher;Open+Source+Developer;Always+Learning+New+Things;HACKER+MIND"/>
 </p>
 
 ---
@@ -80,6 +80,8 @@ public:
 <img src="https://cdn.simpleicons.org/scipy" alt="SciPy" width="48" height="48"/>
 <img src="https://cdn.simpleicons.org/onnx" alt="ONNX" width="48" height="48"/>
 <img width=200 height=200 src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/skillicons-custom.svg" />
+<img src="https://skillicons.dev/icons?i=qt,cmake,godot,gtk">
+
 </p>
 
 ---
