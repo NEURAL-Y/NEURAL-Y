@@ -80,8 +80,7 @@ public:
 <img src="https://cdn.simpleicons.org/scipy" alt="SciPy" width="48" height="48"/>
 <img src="https://cdn.simpleicons.org/onnx" alt="ONNX" width="48" height="48"/>
 <br>
-<img src="https://img.shields.io/badge/Turtle-Graphics-00A1EA?style=flat-square" />
-<img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=flat-square" />
+<img width=200 height=200 src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/skillicons-custom.svg" />
 </p>
 
 ---
