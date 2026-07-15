@@ -75,12 +75,12 @@ public:
     src="https://cdn.simpleicons.org/socketdotio/FFFFFF"
     alt="WebSockets / Socket.IO"
     width="48"
-    height="48"/>
+    height="48"/><br>
 <img src="https://cdn.simpleicons.org/milvus" alt="Milvus" width="48" height="48"/>
 <img src="https://cdn.simpleicons.org/scipy" alt="SciPy" width="48" height="48"/>
 <img src="https://cdn.simpleicons.org/onnx" alt="ONNX" width="48" height="48"/><br>
 <img width=200 height=200 src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/skillicons-custom.svg" />
-<img src="https://skillicons.dev/icons?i=qt,cmake,godot,gtk">
+<img src="https://skillicons.dev/icons?i=qt,cmake,godot,gtk,bash,neovim">
 <img src="https://cdn.simpleicons.org/jupyter" height="40" alt="Jupyter"/>
 </p>
 
