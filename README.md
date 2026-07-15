@@ -64,7 +64,7 @@ public:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,pytorch,tensorflow,postgres,mongodb,tailwind" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,pytorch,tensorflow,postgres,mongodb,tailwind,nodejs" />
 
 <br>
 <!-- Skill Icons -->
