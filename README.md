@@ -75,7 +75,7 @@ public:
     src="https://cdn.simpleicons.org/socketdotio/FFFFFF"
     alt="WebSockets / Socket.IO"
     width="48"
-    height="48"/><br>
+    height="48"/><br><br>
 <img src="https://cdn.simpleicons.org/milvus" alt="Milvus" width="48" height="48"/>
 <img src="https://cdn.simpleicons.org/scipy" alt="SciPy" width="48" height="48"/>
 <img src="https://cdn.simpleicons.org/onnx" alt="ONNX" width="48" height="48"/><br>
