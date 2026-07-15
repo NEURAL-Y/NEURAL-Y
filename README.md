@@ -70,7 +70,7 @@ public:
 <!-- Skill Icons -->
 <img src="https://skillicons.dev/icons?i=opencv&perline=5" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,threejs,express,fastapi,docker,gitlab,github,git,linux,mysql">
+<img src="https://skillicons.dev/icons?i=nodejs,threejs,express,fastapi,docker,gitlab,github,git,linux,mysql,vscode">
 <img
     src="https://cdn.simpleicons.org/socketdotio/FFFFFF"
     alt="WebSockets / Socket.IO"
