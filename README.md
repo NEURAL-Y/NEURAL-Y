@@ -159,3 +159,4 @@ public:
 - Graphics Programming
 - High Performance Computing
 - Systems Architecture
+<img width=100% src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/lightning-divider.svg" />
