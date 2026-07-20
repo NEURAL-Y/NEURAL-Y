@@ -53,7 +53,7 @@ public:
   <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X Profile">
 </a>
 <a href="https://neurips.cc/">
-<img src="https://img.shields.io/badge/NeurIPS-Research-red?style=for-the-badge"/>
+<img width=70  height=70 src="https://img.shields.io/badge/NeurIPS-Research-red?style=for-the-badge"/>
 </a>
 </p>
 
@@ -82,7 +82,7 @@ public:
 <img src="https://skillicons.dev/icons?i=qt,cmake,godot,gtk,bash,neovim,flask,selenium">
 <img src="https://cdn.simpleicons.org/jupyter" height="40" alt="Jupyter"/><br>
 <img src="https://skillicons.dev/icons?i=rust,go,php,flutter"/><br>
-<img src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/icons.svg" />
+<img width=500 height=250 src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/icons.svg" />
 </p>
 
 ---
