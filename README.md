@@ -53,7 +53,7 @@ public:
   <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X Profile">
 </a>
 <a href="https://neurips.cc/">
-<img width=70  height=70 src="https://img.shields.io/badge/NeurIPS-Research-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NeurIPS-Research-red?style=for-the-badge"/>
 </a>
 </p>
 
