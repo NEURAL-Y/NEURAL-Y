@@ -81,7 +81,7 @@ public:
 <img width=188 height=188 src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/skillicons-custom.svg" />
 <img src="https://skillicons.dev/icons?i=qt,cmake,godot,gtk,bash,neovim,flask,selenium">
 <img src="https://cdn.simpleicons.org/jupyter" height="40" alt="Jupyter"/><br>
-<img src="https://skillicons.dev/icons?i=rust,go,php,flutter"/><br>
+<img src="https://skillicons.dev/icons?i=rust,go,php,flutter,graphql,postman,ubuntu,kafka"/><br>
 <img width=500 height=250 src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/icons.svg" />
 </p>
 
