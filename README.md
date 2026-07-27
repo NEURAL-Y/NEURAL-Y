@@ -62,27 +62,7 @@ public:
 # ⚙️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,pytorch,tensorflow,postgres,mongodb,tailwind,nodejs,react" />
-
-<br>
-<!-- Skill Icons -->
-<img src="https://skillicons.dev/icons?i=opencv&perline=5" />
-
-<img src="https://skillicons.dev/icons?i=threejs,express,fastapi,docker,gitlab,github,git,linux,mysql,vscode,blender">
-<img
-    src="https://cdn.simpleicons.org/socketdotio/FFFFFF"
-    alt="WebSockets / Socket.IO"
-    width="48"
-    height="48"/><br><br>
-<img src="https://cdn.simpleicons.org/milvus" alt="Milvus" width="48" height="48"/>
-<img src="https://cdn.simpleicons.org/scipy" alt="SciPy" width="48" height="48"/>
-<img src="https://cdn.simpleicons.org/onnx" alt="ONNX" width="48" height="48"/><br>
-<img width=188 height=188 src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/skillicons-custom.svg" />
-<img src="https://skillicons.dev/icons?i=qt,cmake,godot,gtk,bash,neovim,flask,selenium">
-<img src="https://cdn.simpleicons.org/jupyter" height="40" alt="Jupyter"/><br>
-<img src="https://skillicons.dev/icons?i=rust,go,php,flutter,graphql,postman,ubuntu,kafka,kubernetes,prometheus,grafana,r"/><br>
-<img width=500 height=250 src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/icons.svg" />
+<img width=900 height=700 src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/tech.png"/>
 </p>
 
 ---
