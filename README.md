@@ -62,7 +62,7 @@ public:
 # ⚙️ Tech Stack
 
 <p align="center">
-<img width=900 height=700 src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/tech.png"/>
+<img width=100% height=100% src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/tech_stack_underwater.svg"/>
 </p>
 
 ---
