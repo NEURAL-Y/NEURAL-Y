@@ -62,7 +62,8 @@ public:
 # ⚙️ Tech Stack
 
 <p align="center">
-<img width=100% height=100% src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/tech_stack_underwater.svg"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,nodejs,html,css,js,r,golang,php" height="60" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,django,flask,qt,postgresql,mysql" height="60" />
 </p>
 
 ---
