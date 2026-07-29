@@ -62,8 +62,13 @@ public:
 # ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,nodejs,html,css,js,r,golang,php" height="60" /><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,django,flask,qt,postgresql,mysql,redis,mongodb,kafka,glad" height="60" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,nodejs,html,css,js,r,golang,php,typescript" height="60" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,django,flask,qt,postgresql,mysql,redis,mongodb,kafka,graphql" height="60" />
+    
+   <br>
+    <img src="https://skillicons.dev/icons?i=expressjs,nextjs,react,threejs" height="60" />
+   <br>
+   <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode" height="60" />
 </p>
 
 ---
