@@ -66,8 +66,21 @@ public:
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,django,flask,qt,postgresql,mysql,redis,mongodb,kafka,graphql,vite,tailwindcss" height="60" />
    <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode" height="60" />
     <img src="https://skillicons.dev/icons?i=expressjs,nextjs,react,threejs,godot,bash,cmake,selenium,linux,ubuntu,sqlite,laravel,cs,net" height="50" />
-     <img src="https://skillicons.dev/icons?i=angular,matlab,scikitlearn,julia,blender,spring,debian,terraform,nginx,grafana,prometheus,jest,cypress,rabbitmq" height="50" />
- 
+     <img src="https://skillicons.dev/icons?i=angular,matlab,scikitlearn,julia,blender,spring,debian,terraform,nginx,grafana,prometheus,jest,cypress,rabbitmq" height="50" /><br>
+  <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" alt="Matplotlib" height="36" style="filter: brightness(3) invert(1);"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg" alt="Pandas" height="36" style="filter: brightness(3) invert(1);"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" height="36" style="filter: brightness(3) invert(1);"/>
+  &nbsp;
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" alt="Hugging Face" height="36" style="filter: brightness(3) invert(1);"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/openssl/openssl/master/doc/images/openssl.svg" alt="OpenSSL" height="36" style="filter: brightness(3) invert(1);"/>
+  &nbsp;
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.svg" alt="Streamlit" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars_logo_white.svg" alt="Polars" height="36"/>
+
 </p>
 
 ---
