@@ -52,9 +52,11 @@ public:
 <a href="https://x.com/Ayushsharm2uuz" target="_blank">
   <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X Profile">
 </a>
-<a href="https://neurips.cc/">
-<img src="https://img.shields.io/badge/NeurIPS-Research-red?style=for-the-badge"/>
+<a href="https://www.ssrn.com/ssrn/">
+<img src="https://img.shields.io/badge/SSRN-Researcher-red?style=for-the-badge"/>
 </a>
+<a href="https://www.cos.io/products/osf">
+<img src="https://img.shields.io/badge/COS-Researcher-cyan?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -64,7 +66,7 @@ public:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,nodejs,html,css,js,r,golang,php,typescript,github,git,gitlab" height="60" /><br>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,django,flask,qt,postgresql,mysql,redis,mongodb,kafka,graphql,vite,tailwindcss" height="60" />
-   <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode" height="60" />
+   <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode,jquery" height="60" />
     <img src="https://skillicons.dev/icons?i=expressjs,nextjs,react,threejs,godot,bash,cmake,selenium,linux,ubuntu,sqlite,laravel,cs,net" height="50" />
      <img src="https://skillicons.dev/icons?i=angular,matlab,scikitlearn,julia,blender,spring,debian,terraform,nginx,grafana,prometheus,jest,cypress,rabbitmq" height="50" /><br>
   <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" alt="Matplotlib" height="36" style="filter: brightness(3) invert(1);"/>
