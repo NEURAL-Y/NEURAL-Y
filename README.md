@@ -66,7 +66,7 @@ public:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,nodejs,html,css,js,r,golang,php,typescript,github,git,gitlab" height="60" /><br>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,django,flask,qt,postgresql,mysql,redis,mongodb,kafka,graphql,vite,tailwindcss" height="60" />
-   <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode,jquery" height="60" />
+   <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode,jquery,java,spring" height="60" />
     <img src="https://skillicons.dev/icons?i=expressjs,nextjs,react,threejs,godot,bash,cmake,selenium,linux,ubuntu,sqlite,laravel,cs,net" height="50" />
      <img src="https://skillicons.dev/icons?i=angular,matlab,scikitlearn,julia,blender,spring,debian,terraform,nginx,grafana,prometheus,jest,cypress,rabbitmq" height="50" /><br>
   <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" alt="Matplotlib" height="36" style="filter: brightness(3) invert(1);"/>
