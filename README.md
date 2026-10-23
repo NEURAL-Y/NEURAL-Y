@@ -91,6 +91,7 @@ public:
 <img src="https://cdn.simpleicons.org/scipy" width=50/>
 <img src="https://cdn.simpleicons.org/eslint" width="50">
 <img src="https://cdn.simpleicons.org/prettier" width="50">
+<img src="https://cdn.simpleicons.org/luau" width="50">
 <img src="https://cdn.simpleicons.org/electron" width="50">
 </p>
 
