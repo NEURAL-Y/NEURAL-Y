@@ -11,7 +11,6 @@
   <a href="https://bsky.app/profile/neural-y.bsky.social"><img src="https://img.shields.io/badge/Bluesky-neural--y-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
   <a href="https://www.linkedin.com/company/neural-y/"><img src="https://img.shields.io/badge/LinkedIn-NEURAL%20Y-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.reddit.com/r/NEURALY/"><img src="https://img.shields.io/badge/Reddit-r%2FNEURALY-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="https://github.com/search?q=org%3ANEURAL-Y+label%3A%22good+first+issue%22+state%3Aopen&type=issues"><img src="https://img.shields.io/badge/Good%20First%20Issues-open-39d353?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
