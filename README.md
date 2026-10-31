@@ -1,163 +1,148 @@
-<!-- =============================== -->
-<!--            HEADER               -->
-<!-- =============================== -->
-
 <p align="center">
-<img width="100%" src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/snake-name.svg"/>
+  <img width="100%" src="./snake-name.svg" alt="NEURAL Y"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFA500&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Researcher;Deep+Learning+Engineer;Operating+Systems+Developer;Graphics+Programmer;Computer+Vision+Researcher;Open+Source+Developer;Always+Learning+New+Things;HACKER+MIND"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFA500&center=true&vCenter=true&width=900&lines=An+open+community+for+builders;Judged+by+PRs%2C+not+r%C3%A9sum%C3%A9s;AI+%C2%B7+Systems+%C2%B7+Graphics+%C2%B7+Open+Source;Build+what+the+future+runs+on"/>
+</p>
+
+<p align="center">
+  <a href="https://neural-y.pages.dev"><img src="https://img.shields.io/badge/Website-neural--y-1f6feb?style=for-the-badge"/></a>
+  <a href="https://bsky.app/profile/neural-y.bsky.social"><img src="https://img.shields.io/badge/Bluesky-neural--y-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/company/neural-y/"><img src="https://img.shields.io/badge/LinkedIn-NEURAL%20Y-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.reddit.com/r/NEURALY/"><img src="https://img.shields.io/badge/Reddit-r%2FNEURALY-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+  <a href="https://github.com/search?q=org%3ANEURAL-Y+label%3A%22good+first+issue%22+state%3Aopen&type=issues"><img src="https://img.shields.io/badge/Good%20First%20Issues-open-39d353?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
 
-# 👋 Hello World!
+<details open>
+<summary><b>⚡ What is NEURAL Y</b> <i>(click to collapse)</i></summary>
+
+NEURAL Y is an open developer community building **real, future-facing software** in the open: AI/ML, operating systems, graphics, compilers, HPC and developer tooling.
+
+**Goal:** ship work that has measurable impact on global open source and computer science.
 
 ```cpp
-class AyushSharma {
+class NeuralY {
 public:
+    Entry   entry   = "open to everyone";
+    Metric  merit   = "merged PRs, shipped code, solved problems";
+    Ignored ignored = {"degrees", "years of experience", "titles", "age"};
 
-    string role = "AI/ML Researcher";
-    string passion = "Building Intelligent Systems";
-
-    vector<string> interests = {
-        "Deep Learning",
-        "Computer Vision",
-        "Operating Systems",
-        "Graphics Programming",
-        "System Design",
-        "Research"
-    };
-
-    void mission(){
-        cout<<"Build technology that learns, scales and inspires.";
+    void mission() {
+        build(real_technology);
+        publish(openly);
+        scale(global_impact);
     }
 };
 ```
 
+</details>
+
 ---
 
-# 🌐 Connect With Me
+<details open>
+<summary><b>🧭 Principles</b> <i>(click to collapse)</i></summary>
+
+| | |
+|---|---|
+| **Code speaks** | Your PR is your résumé. Background and experience are irrelevant here. |
+| **Merit, in the open** | Decisions happen in issues and PRs, publicly and with reasons. |
+| **Ship real things** | Working software, benchmarks and papers beat demos and slides. |
+| **Future first** | We pick problems that matter 5–10 years out, not just today. |
+| **Earn a seat** | Top contributors are invited to the maintainer team: they maintain projects and keep the community alive forever. |
+
+</details>
+
+---
+
+<details open>
+<summary><b>🌌 Focus Areas</b> <i>(click to collapse)</i></summary>
+
+| Area | Scope |
+|---|---|
+| 🧠 **AI / ML** | Neural network diagnostics, LLMs, training and evaluation tooling |
+| 🖥️ **Systems & OS** | Kernels, runtimes, low-level performance |
+| 🎮 **Graphics** | Vulkan, OpenGL, real-time visualization |
+| 📷 **Vision** | Computer vision research and pipelines |
+| 🛠️ **Dev Tooling** | Compilers, languages, CSS/UI tooling |
+| 🔬 **Research** | Open papers, reproducible results, shared benchmarks |
+
+</details>
+
+---
+
+# 🤝 Contribute in 4 Steps
+
+1. **Pick** an issue: [good first issues](https://github.com/search?q=org%3ANEURAL-Y+label%3A%22good+first+issue%22+state%3Aopen&type=issues) or propose your own.
+2. **Fork, branch, build.** Keep PRs small and focused.
+3. **Open a PR.** Explain the *why*, include tests or benchmarks.
+4. **Iterate in review.** Merged work earns trust, and top contributors are invited to the maintainer team to maintain projects and keep the community alive forever.
+
+No application, no CV, no gatekeeping. Just PRs.
+
+---
+
+# 🏆 Contributors
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/ayush-sharma-b08169355">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://orcid.org/0009-0003-7950-5924">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-<a href="https://x.com/Ayushsharm2uuz" target="_blank">
-  <img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X Profile">
-</a>
-<a href="https://www.ssrn.com/ssrn/">
-<img src="https://img.shields.io/badge/SSRN-Researcher-red?style=for-the-badge"/>
-</a>
-<a href="https://www.reddit.com/r/NEURALY/">
-<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-<a href="https://neural-y.pages.dev"><img src="https://img.shields.io/badge/Neural Y-Visit-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem02Ljk0IDhoLTMuMDljLS4yNi0xLjM4LS41OS0yLjcyLS45OS0zLjgxIDEuOTEuNzYgMy4zNCAyLjM2IDQuMDggMy44MXpNMTIgNC4wNGMuODQgMS4wNSAxLjQ4IDIuOTIgMS44MSAzLjk2SDEwLjE5Yy4zMy0xLjA0Ljk3LTIuOTEgMS44MS0zLjk2ek00LjI2IDE0Yy0uMTYtLjY0LS4yNi0xLjMxLS4yNi0yczAuMS0xLjM2LjI2LTJoMy4zOGMtLjA4LjY2LS4xMyAxLjMyLS4xMyAyczAuMDUgMS4zNC4xMyAyek04LjA4IDE4LjE5Yy0uOTEtLjc0LS4xNi41LjkzLTMuODFoMy4wOGMuMzQgMS4wOS40NCAyLTQuMDggMy44MXpNMTIgMTkuOTZjLS44NC0xLjA1LTEuNDgtMi45Mi0xLjgxLTMuOTZoMy42MmMtLjMzIDEuMDQtLjk3IDIuOTEtMS44MSAzLjk2ek0xNC42MSAxNmMuMTQtLjY0LjIzLTEuMzEuMjMtMnMtLjA5LTEuMzYtLjIzLTJoMy44N2MuMTYuNjQuMjYgMS4zMi4yNiAycy0uMSAxLjM2LS4yNiAyaC0zLjg3ek0xNS4wMSAxOC4xOWMuNC0xLjA5LjczLTIuNDMuOTktMy44MWgzLjA5Yy0uNzQgMS40NS0yLjE3IDMuMDUtNC4wOCAzLjgxeiIvPjwvc3ZnPg==&logoColor=white"/></a>
+  <a href="https://github.com/NEURAL-Y/NEURAL-Y/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=NEURAL-Y/NEURAL-Y"/>
+  </a>
 </p>
 
+<p align="center"><i>Every face here got here through merged work.</i></p>
 
 ---
 
-# ⚙️ Tech Stack
+<details>
+<summary><b>⚙️ Founder's Tech Stack</b> <i>(click to expand)</i></summary>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,rust,nodejs,html,css,js,r,golang,php,typescript,github,git,gitlab" height="60" /><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,fastapi,django,flask,qt,postgresql,mysql,redis,mongodb,kafka,graphql,vite,tailwindcss" height="60" />
-   <img src="https://skillicons.dev/icons?i=docker,kubernetes,vscode,jquery,java,spring,redux,maven" height="60" />
-    <img src="https://skillicons.dev/icons?i=expressjs,nextjs,react,threejs,godot,bash,cmake,selenium,linux,ubuntu,sqlite,laravel,cs,net" height="50" />
-     <img src="https://skillicons.dev/icons?i=angular,matlab,scikitlearn,julia,blender,spring,debian,terraform,nginx,grafana,prometheus,jest,cypress,rabbitmq" height="50" /><br>
-  <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" alt="Matplotlib" height="36" style="filter: brightness(3) invert(1);"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg" alt="Pandas" height="36" style="filter: brightness(3) invert(1);"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" alt="NumPy" height="36" style="filter: brightness(3) invert(1);"/>
-  &nbsp;
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.svg" alt="Hugging Face" height="36" style="filter: brightness(3) invert(1);"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/openssl/openssl/master/doc/images/openssl.svg" alt="OpenSSL" height="36" style="filter: brightness(3) invert(1);"/>
-    &nbsp
-<img src="https://cdn.simpleicons.org/opengl" width="50" height="50"/>
-<img src="https://cdn.simpleicons.org/vulkan" width="50" height="50"/><br>
-<img src="https://cdn.simpleicons.org/gin" width="50">
-<img src="https://cdn.simpleicons.org/opentelemetry" width="50">
-<img src="https://cdn.simpleicons.org/polars" width="50">
-<img src="https://cdn.simpleicons.org/webassembly" width="50">
-<img src="https://cdn.simpleicons.org/streamlit" width=50 />
-<img src="https://cdn.simpleicons.org/scipy" width=50/>
-<img src="https://cdn.simpleicons.org/eslint" width="50">
-<img src="https://cdn.simpleicons.org/prettier" width="50">
-<img src="https://cdn.simpleicons.org/luau" width="50">
-<img src="https://cdn.simpleicons.org/electron" width="50">
+  <img width="100%" src="./tech-stack.svg" alt="Founder's tech stack"/>
 </p>
 
----
-
-# 🚀 Currently Exploring
-
-🧠 Deep Learning
-
-⚡ Large Language Models
-
-🔬 AI Research Papers
-
-🖥️ Operating Systems
-
-🎮 OpenGL & Vulkan
-
-📷 Computer Vision
-
-🌐 Full Stack Development
-
-🧩 Data Structures & Algorithms
+</details>
 
 ---
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEURAL-Y&layout=compact&theme=tokyonight&hide_border=true"/> -->
+<details>
+<summary><b>📜 Certificate</b> <i>(click to expand)</i></summary>
 
+<p align="center">
+  <img width="420" src="./certificate_forest_theme.svg" alt="Certificate"/>
 </p>
 
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p><br>
-<p align="center">
-<img src="https://img.shields.io/github/followers/NEURAL-Y?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/NEURAL-Y?affiliations=OWNER&style=for-the-badge"/>
-</p>
+</details>
 
 ---
-# CERTIFICATE 
-<p align="center">
-<img height=100% width="100%" src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/certificate_forest_theme.svg"/></p>
 
-# 🧠 Philosophy
+# 🧑‍💻 Stewardship
+
+<table align="center">
+<tr>
+<td align="center" width="180">
+  <a href="https://github.com/NEURAL-Y"><img src="https://github.com/NEURAL-Y.png" width="96" style="border-radius:50%"/></a><br>
+  <b>Ayush Sharma</b><br>
+  <sub>Founder · Leading Maintainers Team</sub>
+</td>
+<td>
+  Started NEURAL Y and is Leading Maintainers: reviews PRs, works in public, and brings top contributors into the maintainer team.<br><br>
+  <a href="https://www.linkedin.com/in/ayush-sharma-b08169355"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0003-7950-5924"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
+  <a href="https://x.com/Ayushsharm2uuz"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://www.ssrn.com/ssrn/"><img src="https://img.shields.io/badge/SSRN-red?style=flat-square"/></a>
+</td>
+</tr>
+</table>
+
+<p align="center"><i>The maintainer team is open to top contributors.</i></p>
+
+---
 
 > *"Intelligence emerges from connected systems."*
-
-> *"Research transforms curiosity into innovation."*
-
+> *"Communities scale what individuals can't."*
 > *"Every optimization begins with understanding."*
 
----
-
-# 🌌 Research Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Large Language Models
-- Operating Systems
-- Graphics Programming
-- High Performance Computing
-- Systems Architecture
-<img width=100% src="https://github.com/NEURAL-Y/NEURAL-Y/blob/main/lightning-divider.svg" />
+<img width="100%" src="./lightning-divider.svg"/>
